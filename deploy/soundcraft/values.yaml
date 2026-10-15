@@ -1,0 +1,7 @@
+image: docker.io/beclab/soundcraft-web:0.7.0-1
+agentImage: docker.io/beclab/soundcraft-agent:0.7.0-1
+imagePullPolicy: IfNotPresent
+
+workloads:
+  soundcraft:
+    replicaCount: 1

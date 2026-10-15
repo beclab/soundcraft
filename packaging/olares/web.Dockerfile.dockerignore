@@ -1,0 +1,16 @@
+.git
+.github
+.claude
+**/target
+/target-*
+dist
+corpus
+log
+plan
+plans
+docs
+craft-fonts
+**/.DS_Store
+**/.env
+**/.env.*
+*.log
